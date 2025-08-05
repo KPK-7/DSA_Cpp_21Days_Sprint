@@ -49,13 +49,7 @@ a
 14049.3
 Constraints
 −2,147,483,648≤int≤2,147,483,647
-* 
-
-−2 
-63
- ≤long long≤2 
-63
- −1
+−2^63 ≤long long≤2^63−1
 char: valid ASCII characters
 
 float and double: Standard IEEE 754 values
